@@ -10,3 +10,5 @@ sleep(1.5)
 print "at the theme park tickit machine"
 sleep(3)
 print "how much is it?"
+sleep(1)
+print "hmm"
