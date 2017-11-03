@@ -12,3 +12,8 @@ sleep(3)
 print "how much is it?"
 sleep(1)
 print "hmm"
+sleep(4)
+print "FIFTY POUNDS EACH, HOW STUPID!"
+print "in the theme park"
+
+
