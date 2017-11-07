@@ -15,5 +15,5 @@ print "hmm"
 sleep(4)
 print "FIFTY POUNDS EACH, HOW STUPID!"
 print "in the theme park"
-
+print "this is boring, why did we pay 50 pounds to get in. this is the most expensive and boring theme park in the world!
 
